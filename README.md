@@ -15,12 +15,3 @@ This repository contains a Jupyter Notebook that demonstrates foundational stati
   - Skewness & Kurtosis using Seaborn
   - Correlation Matrices (heatmaps)
 
-## 🗂️ File Contents
-
-| File                              | Description                                  |
-|-----------------------------------|----------------------------------------------|
-| `Statistics Basics_Assignment.ipynb` | The main notebook with all tasks implemented |
-| `README.md`                        | This file                                    |
-| `requirements.txt`                | Python packages needed (optional)            |
-
-
